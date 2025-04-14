@@ -1,0 +1,16 @@
+﻿@model List<DemoHAutomation.DAL.Entities.Product>
+
+<h2>Product List</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name - $@item.Price</li>
+    }
+</ul>
+
+<h3>Add Product</h3>
+<form method="post" asp-controller="Product" asp-action="Add">
+    <input type="text" name="name" placeholder="Product Name" required />
+    <input type="number" name="price" step="0.01" placeholder="Price" required />
+    <button type="submit">Add</button>
+</form>

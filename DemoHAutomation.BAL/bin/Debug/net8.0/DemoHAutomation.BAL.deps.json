@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DemoHAutomation.BAL/1.0.0": {
+        "dependencies": {
+          "DemoHAutomation.DAL": "1.0.0"
+        },
+        "runtime": {
+          "DemoHAutomation.BAL.dll": {}
+        }
+      },
+      "DemoHAutomation.DAL/1.0.0": {
+        "runtime": {
+          "DemoHAutomation.DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoHAutomation.BAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoHAutomation.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\bin\Debug\net8.0\DemoHAutomation.DAL.deps.json
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\bin\Debug\net8.0\DemoHAutomation.DAL.dll
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\bin\Debug\net8.0\DemoHAutomation.DAL.pdb
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\DemoHAutomation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\DemoHAutomation.DAL.AssemblyInfoInputs.cache
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\DemoHAutomation.DAL.AssemblyInfo.cs
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\DemoHAutomation.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\DemoHAutomation.DAL.dll
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\refint\DemoHAutomation.DAL.dll
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\DemoHAutomation.DAL.pdb
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoHAutomation\DemoHAutomation.DAL\obj\Debug\net8.0\ref\DemoHAutomation.DAL.dll
